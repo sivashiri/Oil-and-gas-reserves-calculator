@@ -1,1 +1,0 @@
-# Oil-and-gas-reserves-calculator
